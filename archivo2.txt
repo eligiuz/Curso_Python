@@ -1,0 +1,4 @@
+Comienzo de texto
+ Esta líena a sido incluida desde el exterior 
+ el miércoles
+ siempre es buena ocasión para estudiar Python
